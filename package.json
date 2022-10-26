@@ -1,0 +1,24 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigoandregg/calculator.git"
+  },
+  "keywords": [
+    "calculator",
+    "javascript",
+    "animation"
+  ],
+  "author": "Rodrigo Andre Gutierrez Acuña <rodrigoandregutierrez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rodrigoandregg/calculator/issues"
+  },
+  "homepage": "https://github.com/rodrigoandregg/calculator#readme"
+}
